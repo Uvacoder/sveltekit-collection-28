@@ -2,6 +2,8 @@
   <img src="site/static/svelte-kit.svg" alt="SvelteKit" width="500">
 </p>
 
+https://github.com/janosh/awesome-svelte-kit
+
 <h1 align="center">Awesome examples of SvelteKit in the wild</h1>
 
 <h4 align="center">
